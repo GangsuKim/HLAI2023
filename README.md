@@ -1,5 +1,5 @@
-# Code of Hallym AI Competition 2023
-This is the code of Hallym AI Competition 2023
+# Hallym AI Competition 2023
+This repo is code of Hallym AI Competition 2023
 > 3rd place of the competition
 
 ## System environment
