@@ -14,10 +14,10 @@ RTX 3090 with 24GB VRAM
 
 ## Models
 ### Using 2 models
- - vit_base_resnet50d_224  
- - xception41p
+ - ViT-B+ResNet50 (224,224)  
+ - Xception 41p
 ### Using 4 different methods
- - Method 1  
- - Method 2  
- - Method 3  
- - Method 4
+ - [Method 1](./train/train_vit_base_resnet50_cos.ipynb) - ViT-B+ResNet50  
+ - [Method 2](./train/train_vit_base_resnet50d_224_cutMix.ipynb) - ViT-B+ResNet50  
+ - [Method 3](./train/train_vit_base_resnet50d_224_cutMix_2.ipynb) - ViT-B+ResNet50
+ - [Method 4](./train/train_xception41p.ipynb) - Xception 41p
