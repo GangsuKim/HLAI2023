@@ -1,6 +1,6 @@
 # Hallym AI Competition 2023
 This repo is code of Hallym AI Competition 2023
-> 3rd place of the competition
+> 3rd place of the competition  
 > Image Classification task (30 classes)
 
 ## System environment
